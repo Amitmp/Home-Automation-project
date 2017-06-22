@@ -1,0 +1,1 @@
+The project from instructables doesnt include DHT. But I have included it many other extra features for this project in the code.
